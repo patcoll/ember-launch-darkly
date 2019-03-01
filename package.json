@@ -21,7 +21,7 @@
   "dependencies": {
     "ember-cli-babel": "^6.3.0",
     "event-source-polyfill": "^0.0.9",
-    "ldclient-js": "1.1.12"
+    "ldclient-js": "1.7.4"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",

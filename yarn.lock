@@ -82,9 +82,10 @@
   dependencies:
     "@glimmer/util" "^0.22.3"
 
-Base64@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/Base64/-/Base64-1.0.0.tgz#b6b73ee342ce64bf66d6003a4536683bf8a349b5"
+Base64@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/Base64/-/Base64-1.0.1.tgz#def45cc50c961bcc9bf2321d0f52bcbfec1f1bb1"
+  integrity sha1-3vRcxQyWG8yb8jIdD1K8v+wfG7E=
 
 abbrev@1:
   version "1.1.0"
@@ -3965,11 +3966,12 @@ lazy-cache@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/lazy-cache/-/lazy-cache-1.0.4.tgz#a1d78fc3a50474cb80845d3b3b6e1da49a446e8e"
 
-ldclient-js@1.1.12:
-  version "1.1.12"
-  resolved "https://registry.yarnpkg.com/ldclient-js/-/ldclient-js-1.1.12.tgz#06ea0dc2326bd84116f0c6674ccd8ff7a83e7d8d"
+ldclient-js@1.7.4:
+  version "1.7.4"
+  resolved "https://registry.yarnpkg.com/ldclient-js/-/ldclient-js-1.7.4.tgz#5e6def39ea1133e8a3dd8f93dab442a2db9f103f"
+  integrity sha512-qfhxp2cnO8X8pXfspm7KYztPutBbIe9V+byjL4jnPqhiRj7+49Ejbjcy6fF2OsglHbZXi28TO7laBKiCE/0ZuQ==
   dependencies:
-    Base64 "1.0.0"
+    Base64 "1.0.1"
     escape-string-regexp "1.0.5"
 
 leek@0.0.24:
